@@ -65,11 +65,11 @@ Ingested tables into SQLite and ran validation queries to test hypothesis correl
 - **Curricular Cliff:** The Tourism curriculum experiences the steepest academic decline (-12.4% pass rate drop from Sem 1 to Sem 2), followed by Basic Education (-6.9%) and Informatics Engineering (-5.3%), pointing to structural friction when transitioning into specialization coursework.
 
 ### Page 3: At-Risk Intervention Workbench
-<img width="1452" height="818" alt="image" src="https://github.com/user-attachments/assets/41195cb4-e461-46e4-a82c-e0cdba776f97" />
+<img width="1041" height="583" alt="image" src="https://github.com/user-attachments/assets/c2ffb700-2b79-40f8-8754-6ae2fd5e1875" />
 
 - **Target Cohort:** 794 currently enrolled students.
 - **Actionable Triage:** 174 High-Risk students and 90 active tuition debtors.
-- **Operational Action Grid:** Equips academic advisors with student ID, scholarship status, debtor, and grade trends so academic advisors can reach out for 1-on-1 counseling.
+- **Operational Action Grid:** Equips academic advisors with student ID, course, scholarship status, debtor, and grade trends so academic advisors can reach out for 1-on-1 counseling.
 
 ## 🚀 Strategic Recommendations
 1. **Early Warning After Semester 1:** Set up an automated alert system immediately after Semester 1 results for any student failing 2 or more units, triggering mandatory advising prior to the Semester 2 census date.
